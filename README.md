@@ -1,6 +1,8 @@
 Ithildin
 ========
 
+![Pethro](pethro.png?raw=true)
+
 ## About
 
 *A personal RESTFul/SPA blog engine made using a full Javascript stack.*
