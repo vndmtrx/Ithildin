@@ -19,3 +19,7 @@ Tools and frameworks that may be used on this project:
 - ZeroMQ
 
 Mongo + Redis + ZeroMQ + Memcached + Node + Express + Ember + Foundation ou Bootstrap
+
+### References
+
+[Using ExpressJS with Handlebars](https://github.com/ericf/express-handlebars)
