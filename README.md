@@ -22,7 +22,7 @@ Mongo + Redis + ZeroMQ + Memcached + Node + Express + Ember + Foundation ou Boot
 
 ### References
 
-[Using ExpressJS with Handlebars](https://github.com/ericf/express-handlebars)
-[Marked Markdown Parser](https://github.com/chjj/marked)
-[Bootstrap Markdown](https://github.com/toopay/bootstrap-markdown)
-[Markdown Style Guide](https://github.com/carwin/markdown-styleguide)
+- [Using ExpressJS with Handlebars](https://github.com/ericf/express-handlebars)
+- [Marked Markdown Parser](https://github.com/chjj/marked)
+- [Bootstrap Markdown](https://github.com/toopay/bootstrap-markdown)
+- [Markdown Style Guide](https://github.com/carwin/markdown-styleguide)
