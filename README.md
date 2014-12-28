@@ -26,3 +26,4 @@ Mongo + Redis + ZeroMQ + Memcached + Node + Express + Ember + Foundation ou Boot
 - [Marked Markdown Parser](https://github.com/chjj/marked)
 - [Bootstrap Markdown](https://github.com/toopay/bootstrap-markdown)
 - [Markdown Style Guide](https://github.com/carwin/markdown-styleguide)
+- [Handlebars template examples](http://runnable.com/U07z_Y_j9rZk1tTx/handlebars-template-examples-with-express-4-for-node-js)
